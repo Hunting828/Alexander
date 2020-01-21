@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISIS_Labs", "ISIS_Labs.csproj", "{487D3C8C-1F69-49CF-9791-7DCDE73E034D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISIS_Labs_Tests", "..\ISIS_Labs_Tests\ISIS_Labs_Tests.csproj", "{DAD22E1D-BD3A-4F44-876D-F9EE91A93242}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{487D3C8C-1F69-49CF-9791-7DCDE73E034D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487D3C8C-1F69-49CF-9791-7DCDE73E034D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487D3C8C-1F69-49CF-9791-7DCDE73E034D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487D3C8C-1F69-49CF-9791-7DCDE73E034D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD22E1D-BD3A-4F44-876D-F9EE91A93242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD22E1D-BD3A-4F44-876D-F9EE91A93242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD22E1D-BD3A-4F44-876D-F9EE91A93242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD22E1D-BD3A-4F44-876D-F9EE91A93242}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7908BE3F-F42E-4151-96EB-5097B9FA6EE5}
+	EndGlobalSection
+EndGlobal

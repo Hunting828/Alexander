@@ -1,0 +1,11 @@
+E:\Документы\3 Курс 1 Семестр\Инструментальные средства ИС\ISIS_Labs\obj\Debug\ISIS_Labs.csprojAssemblyReference.cache
+E:\Документы\3 Курс 1 Семестр\Инструментальные средства ИС\ISIS_Labs\obj\Debug\ISIS_Labs.Child.resources
+E:\Документы\3 Курс 1 Семестр\Инструментальные средства ИС\ISIS_Labs\obj\Debug\ISIS_Labs.Properties.Resources.resources
+E:\Документы\3 Курс 1 Семестр\Инструментальные средства ИС\ISIS_Labs\obj\Debug\ISIS_Labs.csproj.GenerateResource.cache
+E:\Документы\3 Курс 1 Семестр\Инструментальные средства ИС\ISIS_Labs\bin\Debug\ISIS_Labs.exe.config
+E:\Документы\3 Курс 1 Семестр\Инструментальные средства ИС\ISIS_Labs\bin\Debug\ISIS_Labs.exe
+E:\Документы\3 Курс 1 Семестр\Инструментальные средства ИС\ISIS_Labs\bin\Debug\ISIS_Labs.pdb
+E:\Документы\3 Курс 1 Семестр\Инструментальные средства ИС\ISIS_Labs\obj\Debug\ISIS_Labs.exe
+E:\Документы\3 Курс 1 Семестр\Инструментальные средства ИС\ISIS_Labs\obj\Debug\ISIS_Labs.pdb
+E:\Документы\3 Курс 1 Семестр\Инструментальные средства ИС\ISIS_Labs\obj\Debug\ISIS_Labs.Auth.resources
+E:\Документы\3 Курс 1 Семестр\Инструментальные средства ИС\ISIS_Labs\obj\Debug\ISIS_Labs.MDI.resources
